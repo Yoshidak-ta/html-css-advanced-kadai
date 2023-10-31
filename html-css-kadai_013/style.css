@@ -66,6 +66,10 @@ PC用のスタイル
   #nav-sp {
     display: none;
   }
+
+  #menu-up {
+    display: none;
+  }
 }
 
 /* スマホスタイル */
