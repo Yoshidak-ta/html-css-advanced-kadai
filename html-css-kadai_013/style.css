@@ -12,6 +12,7 @@ p {
   width: 100%;
 }
 
+
 /*================
 PC用のスタイル 
 =================*/
@@ -67,10 +68,6 @@ PC用のスタイル
     display: none;
   }
 
-  #menu-up {
-    display: none;
-  }
-
 }
 
 /* スマホスタイル */
@@ -84,7 +81,7 @@ PC用のスタイル
     display: none;
   }
 
-  #menu-up {
+  #menu-sp {
     float: right;
     padding: 0;
   }
